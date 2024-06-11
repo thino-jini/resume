@@ -1,6 +1,4 @@
 
-[UpdatedResume_Thinojini.pdf](https://github.com/user-attachments/files/15787261/UpdatedResume_Thinojini.pdf)
-
 # Resume Repository
 Welcome to my resume repository! This is where I maintain the latest version of my professional resume, showcasing my skills, experiences, and accomplishments.
 
