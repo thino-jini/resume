@@ -1,3 +1,4 @@
+
 [UpdatedResume_Thinojini.pdf](https://github.com/user-attachments/files/15787261/UpdatedResume_Thinojini.pdf)
 
 # Resume Repository
@@ -13,7 +14,7 @@ Feel free to browse through the documents and reach out if you have any question
 While this repository is primarily for my personal use, I'm open to suggestions and feedback on how to improve my resume and cover letter.
 
 ## Contact
-If you wish to contact me regarding job opportunities or collaborations, please send an email to jaanuthino14@gmail.com.com.
+If you wish to contact me regarding job opportunities or collaborations, please send an email to jaanuthino14@gmail.com.
 
 Thank you for visiting my resume repository!
 
